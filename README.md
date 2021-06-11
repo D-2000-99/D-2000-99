@@ -2,8 +2,8 @@
 
 I'm Deepak, a Python developer and an AI enthusiast.
 
-🤓 I work with Keras, Tensorflow, scikit-learn, etc to breathe life into machines! 
-👨‍🎤 I also do art and write sometimes! Check it out here: https://embrite.wordpress.com/
+<p>🤓 I work with Keras, Tensorflow, scikit-learn, etc to breathe life into machines!</p> 
+<p>🎨✍ I also do art and write sometimes! Check it out here: https://embrite.wordpress.com/</p>
 
 📫 Instagram: @deepak_haridas_
 <!--
