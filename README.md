@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Deepak, a Python developer and an AI enthusiast
+
+🤓 I work with Keras, Tensorflow, scikit-learn, etc to breathe life into machines! 
+👨‍🎤 I also do art and write sometimes! Check it out here: https://embrite.wordpress.com/
+
+📫 Instagram: @deepak_haridas_
 <!--
 **D-2000-99/D-2000-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
