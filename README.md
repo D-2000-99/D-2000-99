@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Deepak, a Python developer and an AI enthusiast
+I'm Deepak, a Python developer and an AI enthusiast.
 
 🤓 I work with Keras, Tensorflow, scikit-learn, etc to breathe life into machines! 
 👨‍🎤 I also do art and write sometimes! Check it out here: https://embrite.wordpress.com/
