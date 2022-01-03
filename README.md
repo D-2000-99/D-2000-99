@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Deepak, a Data Scientist/Analyst.
+I'm Deepak, a Data Scientist/Analyst.<br>
 📫 email: dpk992000@gmail.com
 
 
