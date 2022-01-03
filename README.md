@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 I'm Deepak, a Data Scientist/Analyst.<br>
-📫 email: dpk992000@gmail.com
-
 
 <p> I also do art and write sometimes! Check it out here: https://embrite.wordpress.com/</p>
 
